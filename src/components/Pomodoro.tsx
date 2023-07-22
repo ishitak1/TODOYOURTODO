@@ -21,10 +21,10 @@ const Pomodoro = () => {
   }
 
   const times = [
-    { color: "blue", time: 1 },
-    { color: "yellow", time: 15 },
-    { color: "orange", time: 25 },
-    { color: "pink", time: 35 },
+    { color: "blue", time: 15 },
+    { color: "yellow", time: 25 },
+    { color: "orange", time: 40 },
+    { color: "pink", time: 60 },
   ];
 
   function alertOption() {
